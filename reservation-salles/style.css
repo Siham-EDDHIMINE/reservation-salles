@@ -1,0 +1,20 @@
+body{
+    margin: auto;
+    background-image: url("image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-content: center;
+    background-color: beige;
+    padding: 10px;
+
+}
+ul a{
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.4em;;
+}
